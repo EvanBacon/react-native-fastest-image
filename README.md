@@ -21,3 +21,7 @@ function App() {
   return <Image />;
 }
 ```
+
+## Example
+
+You can see a full example in this [**snack**](https://snack.expo.io/@bacon/react-native-fastest-image)
