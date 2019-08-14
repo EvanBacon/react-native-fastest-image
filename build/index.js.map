@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,cAAc,CAAC;AACrC,eAAe,KAAK,CAAC;AACrB,OAAO,EAAE,KAAK,EAAE,CAAC","sourcesContent":["import { Image } from 'react-native';\nexport default Image;\nexport { Image };"]}

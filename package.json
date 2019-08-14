@@ -1,0 +1,45 @@
+{
+  "name": "react-native-fastest-image",
+  "version": "100.0.0",
+  "sideEffects": true,
+  "description": "The fastest most reliable Image component for React Native",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "homepage": "https://github.com/EvanBacon/react-native-fastest-image#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanBacon/react-native-fastest-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EvanBacon/react-native-fastest-image/issues"
+  },
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "test": "jest",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "react-native-fast-image",
+    "lol-flutter"
+  ],
+  "author": "Evan Bacon",
+  "license": "MIT",
+  "jest": {
+    "preset": "react-native"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "expo-module-scripts": "^1.0.1",
+    "jest-expo": "^34.0.0",
+    "react": "^16.9.0",
+    "react-native": "^0.60.5",
+    "react-test-renderer": "^16.9.0"
+  }
+}
