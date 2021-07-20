@@ -39,7 +39,7 @@
     "expo-module-scripts": "^1.0.1",
     "jest-expo": "^34.0.0",
     "react": "^16.9.0",
-    "react-native": "^0.60.5",
+    "react-native": "^0.62.3",
     "react-test-renderer": "^16.9.0"
   }
 }
